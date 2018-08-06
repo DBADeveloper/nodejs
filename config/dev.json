@@ -1,0 +1,3 @@
+{
+	"DBHost": "mongodb://user:password@database.mlab.com:11012/mongodb"
+}

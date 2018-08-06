@@ -59,3 +59,6 @@ typings/
 
 # next.js build output
 .next
+
+# Runtime configuration for swagger app
+config/runtime.yaml
